@@ -137,6 +137,12 @@ Your favorite service is missing? [Pull Requests welcome](CONTRIBUTING.md).
 #### Gitter
 [![Join the chat at https://gitter.im/jstriebel/badges](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jstriebel/badges)
 
+### Pair programming
+
+#### PairHub
+
+[![Find a remote pair programming partner](https://img.shields.io/badge/pairhub-find%20a%20pair-%230000ff.svg)](https://pairhub.io/boennemann/badges)
+
 ### Generic
 
 #### Shields.io
